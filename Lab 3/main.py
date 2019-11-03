@@ -1,4 +1,8 @@
 #!/usr/bin/env python
+This project has been completed in cooperation with Raffael Affolter.
+For further ressources access his gitlab: https://gitlab.com/CerealBuster/eva-labs
+
+
 
 """
 This project was developed by Rein Houthooft, Rocky Duan, Peter Chen, Pieter Abbeel for the Berkeley Deep RL Bootcamp, August 2017. Bootcamp website with slides and lecture videos: https://sites.google.com/view/deep-rl-bootcamp/.
